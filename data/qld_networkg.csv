@@ -1,515 +1,709 @@
 source,target,edge weight,node weight,source type,target type,source color,target color
-Adams + Sparkes Town Planning and Development,Adam Seaton,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Adams + Sparkes Town Planning and Development,Peter  Sparkes,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Anacta Strategies Pty Ltd,Jessame Tibbitts,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Anacta Strategies Pty Ltd,Liam O'Regan,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Atlas Alliance,Douglas Pye,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Australian Public Affairs,Nathan Vass,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Australian Public Affairs,Nick Trainor,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Australian Society Of Ophthalmologists (formerly Vanguard Consulting & Services),Katrine Ronne,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Australian Strategic Advisory,Kevin Parer,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-BBS Communications Group Pty Ltd,Allegra Young,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-BBS Communications Group Pty Ltd,Eliza Woods,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-BBS Communications Group Pty Ltd,Sara Benallack,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Barton Deakin,Anthony Benscher,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-CGM Communications Pty Ltd,Daniel Smith,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-CMAX Advisory,Alexander Wilson,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-CMAX Advisory,Alyssa Waters,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-CMAX Advisory,Christian Taubenschlag,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-CMAX Advisory,Claire Woodwell,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-CMAX Advisory,Jarryd Williamson,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-CMAX Advisory,Jason Staines,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-CMAX Advisory,Jaya Pastor-Elsegood,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-CMAX Advisory,Maiya Saita,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-CMAX Advisory,Tara Taubenschlag,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-CMAX Advisory,Tyson Sara,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-CPR Communications and Public Relations Pty Ltd (Melbourne),Brendan Rowswell,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-CRISIS&COMMS CO,PAOLO BINI,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Chatto Creek Advisory,Russell Scoular,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Chikarovski & Associates Pty Ltd,Angela Vithoulkas,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Chris Schacht,Chris Schacht,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Commercial Licensing Specialists,Jennifer Anne Wood,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Cornerstone Group,Joseph Tannous,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-DWS Hospitality Specialists,Simone Barber,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Diplomacy,Joshua Williams,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Domestique Consulting Australia,Ben Taylor,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Essential Media Communications,Peter Stahel,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-FIPRA Australia,John Richardson,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-FTI Consulting,Sarah Roberts,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-FTI Consulting,Shannon Walker,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Fifty Acres - The Communications Agency,Ethan Wales,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Fifty Acres - The Communications Agency,Joanne Scard,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Forrester Consulting,Jeff Popp,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-GRACosway Pty Ltd,Alyssa Patterson,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-GRACosway Pty Ltd,Ashleigh Worthley,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-GRACosway Pty Ltd,Elizabeth Walker,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-GRACosway Pty Ltd,Lewis Whittaker,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-GRACosway Pty Ltd,Nicolaos Xerakias,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-GRACosway Pty Ltd,Sahil Prasad,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Gaming Machine Services,Kyle Birks,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Gaming Machine Services,Laurence J Birks,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Govstrat Pty Ltd,Damian Power,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Govstrat Pty Ltd,PETER TURNBULL,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Grace Portolesi Connect,Grace Portolesi,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Hawker Britton,Ankita Panjratan,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Hawker Britton,Emma Ramage,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Hawker Britton,Simon Banks,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-John Short,John Short,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-LK Creative Pty Ltd,Llewellyn Rees,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-London Agency,Sam Schiphorst,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Louise Ryan Consulting,Louise Ryan,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-MB Liquor Licensing,Kerrie Blong,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Michelson Alexander Pty Ltd,Alexander Whittle,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Michelson Alexander Pty Ltd,Andrew Stewart,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Michelson Alexander Pty Ltd,Jeremy Phillips-Yelland,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Michelson Alexander Pty Ltd,Michelson Steve,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Mission Consulting Solutions,Anne Pleash,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Morph Consulting Services,Stuart Watters,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Narration,Graham Young,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Nexus APAC Pty Ltd,Addison Ridge,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Nexus APAC Pty Ltd,Edward Strong,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Ogilvy PR Agency Pty Limited,Edward Schiller,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Ogilvy PR Agency Pty Limited,Fiona Sinclair,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Ogilvy PR Agency Pty Limited,Rachel Stanton,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Open Door Consulting,Andrew Soter,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Outcomes & Strategies Group,Robert (Bob) Baldwin,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-PYNE AND PARTNERS,Will Redmond,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Porter Novelli Australia Pty Ltd,Rhys Ryan,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-PremierNational,Darrin Barnett,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-PremierNational,Fiona Scott,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-PremierNational,Graham Richardson,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-PremierNational,Ilana Waldman,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-PremierNational,Michael Photios,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Primary Communication,Craig Regan,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Project Urban Pty Ltd,Andrew  Stevens,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Promedia Public Relations,Alister Thomson,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Promedia Public Relations,Jeremy Scott,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Promedia Public Relations,Naomi Sanders,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Promedia Public Relations,Tanya Waite,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-RSA Liquor Professionals t/a; Russell Steele & Assoc Pty Ltd,Russell Steele,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Rowland Pty Ltd,Geoff Rodgers,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Rowland Pty Ltd,Samuel Walker,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Rowland Pty Ltd,Tristan Bick,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Royce Comm,Simon Westaway,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-SAS Group,Bernard Ripoll,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-SAS Group,James Baker,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-SAS Group,Johnathon Baque,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-SAS Group,Shayne Sutton,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-SEC Newgate,Jamin Smith,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Santoro Consulting,Santo Santoro,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Sling and Stone,Hayley Schubert,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Sling and Stone,Vuki Vujasinovic,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Staerk Government and Media,Darren Sly,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Staerk Government and Media,Graham Staerk,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Strategic Corporate Affairs Pty Ltd,Frank Topham,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Suncoast Business Consultants Pty Ltd,Leo Zussino,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-TG Public Affairs,Brendan Tegg,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-TG Public Affairs,Megan Redmond,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-TG Public Affairs,Paul Bigsby-Chamberlin,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-TONY ROLFE Consulting,Anthony Rolfe,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Taylor Connect,Clare Wilkes,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-The Civic Partnership,Leon Beswick,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-The Inner Circle Strategic Advisory,Karly Abbott,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-The Inner Circle Strategic Advisory,Kathleen Quinn,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-The Strand 365 PTY LTD,Matthew Peel,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Walsh Stevens,Matt Stevens,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Watt Advocacy & Communications,Kel Watt,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Watt Advocacy & Communications,Louise Yabsley,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Wilkinson Butler,Peter Wilkinson,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Willard Public Affairs Pty Ltd,Andrew Plumley,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Woodhill Communication Pty Ltd,Stephen Woodhill,1,1,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
-Adams + Sparkes Town Planning and Development,W & M Carnall Pty Ltd ,1,1,Lobbyist,Client,#c780e8,#ff6961
-Anacta Strategies Pty Ltd,Pinssar Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Anacta Strategies Pty Ltd,Plenary Group,1,1,Lobbyist,Client,#c780e8,#ff6961
-Anacta Strategies Pty Ltd,QER Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Anacta Strategies Pty Ltd,Queensland Motorways Pty Ltd ,1,1,Lobbyist,Client,#c780e8,#ff6961
-Anacta Strategies Pty Ltd,Redman Solutions Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Anacta Strategies Pty Ltd,Salary Packaging Australia Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Anacta Strategies Pty Ltd,SeaSwift,1,1,Lobbyist,Client,#c780e8,#ff6961
-Anacta Strategies Pty Ltd,Shine Justice Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Anacta Strategies Pty Ltd,Smart Pups Assistance Dogs for Special Needs Children Inc,1,1,Lobbyist,Client,#c780e8,#ff6961
-Anacta Strategies Pty Ltd,Streem Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Anacta Strategies Pty Ltd,Sunshine Coast Orthopaedic Group,1,1,Lobbyist,Client,#c780e8,#ff6961
-Anacta Strategies Pty Ltd,URANNAH WATER SCHEME PTY LTD,1,1,Lobbyist,Client,#c780e8,#ff6961
-Anacta Strategies Pty Ltd,Unitywater,1,1,Lobbyist,Client,#c780e8,#ff6961
-Anacta Strategies Pty Ltd,Vast Solar Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Anacta Strategies Pty Ltd,Wanless Waste Management Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Anacta Strategies Pty Ltd,Watpac Construction (Qld) Pty Ltd ,1,1,Lobbyist,Client,#c780e8,#ff6961
-Anacta Strategies Pty Ltd,White Wind Project No 1 Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Anacta Strategies Pty Ltd,WorkHaven Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Anacta Strategies Pty Ltd,Yabbr Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Anna Grosskreutz Consulting,Village Fair Investments Pty Ltd aft the Beerwah Marketplace,1,1,Lobbyist,Client,#c780e8,#ff6961
-Atlas Alliance,VERTO,1,1,Lobbyist,Client,#c780e8,#ff6961
-Australian Public Affairs,Primary Care Business Council (ABN 93 657 214 376),1,1,Lobbyist,Client,#c780e8,#ff6961
-Australian Public Affairs,Stillbirth Foundation Australia,1,1,Lobbyist,Client,#c780e8,#ff6961
-Australian Public Affairs,The Peer Support Foundation Ltd (ABN 40 002 634 853),1,1,Lobbyist,Client,#c780e8,#ff6961
-Australian Strategic Advisory,Southern Pacific Flight Training,1,1,Lobbyist,Client,#c780e8,#ff6961
-BB Win Win Outcomes,StandbyU Foundation,1,1,Lobbyist,Client,#c780e8,#ff6961
-BB Win Win Outcomes,The Better Health Generation Australia & UK,1,1,Lobbyist,Client,#c780e8,#ff6961
-BBS Communications Group Pty Ltd,Property Leaders Brisbane,1,1,Lobbyist,Client,#c780e8,#ff6961
-BBS Communications Group Pty Ltd,RSM Australia Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Barton Deakin,The McKinnon Institute for Political Leadership,1,1,Lobbyist,Client,#c780e8,#ff6961
-CMAX Advisory,SECORA,1,1,Lobbyist,Client,#c780e8,#ff6961
-CMAX Advisory,SYPAQ SYSTEMS PTY LTD,1,1,Lobbyist,Client,#c780e8,#ff6961
-CMAX Advisory,Soldier On,1,1,Lobbyist,Client,#c780e8,#ff6961
-CMAX Advisory,Stryker,1,1,Lobbyist,Client,#c780e8,#ff6961
-CPR Communications and Public Relations Pty Ltd (Melbourne),UFC,1,1,Lobbyist,Client,#c780e8,#ff6961
-CRISIS&COMMS CO,REFINITIV,1,1,Lobbyist,Client,#c780e8,#ff6961
-CT Group,Remondis,1,1,Lobbyist,Client,#c780e8,#ff6961
-CT Group,Serco Group Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-CT Group,Sherdar Australia Bio Refinery Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-CT Group,Soul Safe Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-CT Group,United Petroleum Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Candra Business Advisers,Wik Projects Limited,1,1,Lobbyist,Client,#c780e8,#ff6961
-Candra Business Advisers,Wik Timber Holdings Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Cannings Purple,Returned & Services League of Australia (Queensland Branch),1,1,Lobbyist,Client,#c780e8,#ff6961
-Capital Integrity,Virsec,1,1,Lobbyist,Client,#c780e8,#ff6961
-Christmas Jalili,Trinity Health Enterprise (HK) Limited,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,All About the Food Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,"Qld Hotel & Liquor Group Pty Ltd atf The Windsor Hotel & Motel, Dalby Unit Trust",1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,Redbank Nominees Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,Ridgeway Mak Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,Ruedas Business Investment Pty Ltd ,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,Saga Hospitality Group Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,Salt House Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,Sandmore Marketing Pty Ltd ATF WEK Business Trust ,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,Santinos Restaurant Pty Ltd ,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,Sexcess Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,Shibui Qld Pty Ltd ATF Shibui Unit Trust ,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,Shooters JV Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,Showbar140 Pty Ltd ,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,Simon James Pty Ltd ,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,South Sky Assets Pty Ltd ,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,Springbok Foods Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,Strand Properties Townsville Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,Sun Tourism Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,Tap House Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,The Escape Group Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,The Hi Fi Brisbane Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,The Jungle Village Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,The Platinum Empire Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,The Rising Sun Restaurant & Bar,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,Tuckeria Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,Tursiops Pty Ltd atf P.L Lynch Family Trust,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,VNP Corporation Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Commercial Licensing Specialists,Ying Enterprise Pty Ltd ,1,1,Lobbyist,Client,#c780e8,#ff6961
-Conlon Advisory,Vintage Energy,1,1,Lobbyist,Client,#c780e8,#ff6961
-Cornerstone Group,PointsBet Australia Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Cornerstone Group,Samstone Pty Ltd ,1,1,Lobbyist,Client,#c780e8,#ff6961
-Cornerstone Group,Seek Limited,1,1,Lobbyist,Client,#c780e8,#ff6961
-Cornerstone Group,TAMAYA PTY LTD,1,1,Lobbyist,Client,#c780e8,#ff6961
-Cornerstone Group,TOMRA Group,1,1,Lobbyist,Client,#c780e8,#ff6961
-Cornerstone Group,WINC AUSTRALIA & NEW ZEALAND PTY LTD,1,1,Lobbyist,Client,#c780e8,#ff6961
-Counsel House Pty Ltd,QBE Management Services Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Counsel House Pty Ltd,RMG HYDROGEN TECHNOLOGIES PTY LTD,1,1,Lobbyist,Client,#c780e8,#ff6961
-DPG Advisory Solutions Pty Ltd,Port of Newcastle,1,1,Lobbyist,Client,#c780e8,#ff6961
-DPG Advisory Solutions Pty Ltd,Private Healthcare Australia,1,1,Lobbyist,Client,#c780e8,#ff6961
-DPG Advisory Solutions Pty Ltd,Racing Australia,1,1,Lobbyist,Client,#c780e8,#ff6961
-DPG Advisory Solutions Pty Ltd,"Recruitment, Consulting & Staffing Association",1,1,Lobbyist,Client,#c780e8,#ff6961
-DPG Advisory Solutions Pty Ltd,Rio Tinto,1,1,Lobbyist,Client,#c780e8,#ff6961
-DPG Advisory Solutions Pty Ltd,Stockland,1,1,Lobbyist,Client,#c780e8,#ff6961
-DPG Advisory Solutions Pty Ltd,Swyftx,1,1,Lobbyist,Client,#c780e8,#ff6961
-DPG Advisory Solutions Pty Ltd,Wesfarmers Limited,1,1,Lobbyist,Client,#c780e8,#ff6961
-DWS Hospitality Specialists,Rainbow Bay Surf Life Savers Supporters Association Inc,1,1,Lobbyist,Client,#c780e8,#ff6961
-DWS Hospitality Specialists,Sherwood Services Club ,1,1,Lobbyist,Client,#c780e8,#ff6961
-DWS Hospitality Specialists,Spirit Hotels Group ,1,1,Lobbyist,Client,#c780e8,#ff6961
-DWS Hospitality Specialists,Stanthorpe RSL Services Club Inc,1,1,Lobbyist,Client,#c780e8,#ff6961
-DWS Hospitality Specialists,Tewantin Noosa RSL,1,1,Lobbyist,Client,#c780e8,#ff6961
-Digby McLeay Consulting,Queensland Pacific Metals Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Diplomacy,The Nature Conservancy,1,1,Lobbyist,Client,#c780e8,#ff6961
-Edelman Australia Pty Ltd,Samsung Electronics Australia,1,1,Lobbyist,Client,#c780e8,#ff6961
-Edelman Australia Pty Ltd,Schlumberger Australia Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Empower Pty Ltd,Rivergate Marina and Shipyard,1,1,Lobbyist,Client,#c780e8,#ff6961
-Empower Pty Ltd,Townsville and District Rugby Union,1,1,Lobbyist,Client,#c780e8,#ff6961
-Empower Pty Ltd,the trustee for the Elementsnq unit trust,1,1,Lobbyist,Client,#c780e8,#ff6961
-FIPRA Australia,Royal Caribbean Cruises Australia P/L,1,1,Lobbyist,Client,#c780e8,#ff6961
-FIPRA Australia,"Royal Caribbean Cruises Limited, USA",1,1,Lobbyist,Client,#c780e8,#ff6961
-FPL Advisory,V2 FOOD PTY LTD,1,1,Lobbyist,Client,#c780e8,#ff6961
-FTI Consulting,Sympli Australia Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-FTI Consulting,Tetra Pak,1,1,Lobbyist,Client,#c780e8,#ff6961
-Federation Public Affairs,SPM Assets Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Fifty Acres - The Communications Agency,Young Change Agents,1,1,Lobbyist,Client,#c780e8,#ff6961
-Fitzpatrick Advisory,Tellus Holdings,1,1,Lobbyist,Client,#c780e8,#ff6961
-Forrester Consulting,Riverlife,1,1,Lobbyist,Client,#c780e8,#ff6961
-Forrester Consulting,Story Bridge Adventure Climb,1,1,Lobbyist,Client,#c780e8,#ff6961
-GR Solutions,Gasparin Group Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-GR Solutions,Seacliff Developments Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-GR Solutions,The Linden Group Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-GRA Partners Pty Limited,SIXDegrees Hospitality Group,1,1,Lobbyist,Client,#c780e8,#ff6961
-GRA Partners Pty Limited,St Francis Group,1,1,Lobbyist,Client,#c780e8,#ff6961
-GRACosway Pty Ltd,ALDI Stores,1,1,Lobbyist,Client,#c780e8,#ff6961
-GRACosway Pty Ltd,Alex Fraser Group,1,1,Lobbyist,Client,#c780e8,#ff6961
-GRACosway Pty Ltd,Plotlogic Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-GRACosway Pty Ltd,RateSetter Australia RE Limited,1,1,Lobbyist,Client,#c780e8,#ff6961
-GRACosway Pty Ltd,Red Nose Limited,1,1,Lobbyist,Client,#c780e8,#ff6961
-GRACosway Pty Ltd,Responsible Wagering Australia Holdings Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-GRACosway Pty Ltd,Sands - Miscarriage Stillbirth Newborn Death Support,1,1,Lobbyist,Client,#c780e8,#ff6961
-GRACosway Pty Ltd,Source Global,1,1,Lobbyist,Client,#c780e8,#ff6961
-GRACosway Pty Ltd,Switch Health,1,1,Lobbyist,Client,#c780e8,#ff6961
-GRACosway Pty Ltd,TeamKids,1,1,Lobbyist,Client,#c780e8,#ff6961
-GRACosway Pty Ltd,The National Council of the Young Men's Christian Associations of Australia,1,1,Lobbyist,Client,#c780e8,#ff6961
-GRACosway Pty Ltd,The Royal Australian College of General Practitioners Ltd (RACGP),1,1,Lobbyist,Client,#c780e8,#ff6961
-GRACosway Pty Ltd,TheirCare Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-GRACosway Pty Ltd,Trailers Downunder Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-GRACosway Pty Ltd,URBNSURF GROUP Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-GRACosway Pty Ltd,Victorian Trailers Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-GRACosway Pty Ltd,Zero Mass Water (Australia) Pty Limited,1,1,Lobbyist,Client,#c780e8,#ff6961
-Government and Corporate Advisory Network,Safety Australia Group,1,1,Lobbyist,Client,#c780e8,#ff6961
-Govstrat Pty Ltd,QTECTIC,1,1,Lobbyist,Client,#c780e8,#ff6961
-Govstrat Pty Ltd,QUINBROOK INFRASTRUCTURE PARTNERS PTY LTD,1,1,Lobbyist,Client,#c780e8,#ff6961
-Govstrat Pty Ltd,Retail Guild,1,1,Lobbyist,Client,#c780e8,#ff6961
-Govstrat Pty Ltd,Rio Tinto Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Govstrat Pty Ltd,Springfield Land Corporation,1,1,Lobbyist,Client,#c780e8,#ff6961
-Govstrat Pty Ltd,Star Entertainment Group,1,1,Lobbyist,Client,#c780e8,#ff6961
-Govstrat Pty Ltd,Sun Metals Corporation,1,1,Lobbyist,Client,#c780e8,#ff6961
-Govstrat Pty Ltd,Tabcorp Holdings,1,1,Lobbyist,Client,#c780e8,#ff6961
-Govstrat Pty Ltd,Village Road Show,1,1,Lobbyist,Client,#c780e8,#ff6961
-Groundswell Leaders,PIZZA PAN GROUP PTY LTD,1,1,Lobbyist,Client,#c780e8,#ff6961
-Hawker Britton,AMP Capital,1,1,Lobbyist,Client,#c780e8,#ff6961
-Hawker Britton,Amazon,1,1,Lobbyist,Client,#c780e8,#ff6961
-Hawker Britton,QBE Insurance Australia Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Hawker Britton,RG Property,1,1,Lobbyist,Client,#c780e8,#ff6961
-Hawker Britton,Santé Group,1,1,Lobbyist,Client,#c780e8,#ff6961
-Hawker Britton,Silver Chain Group,1,1,Lobbyist,Client,#c780e8,#ff6961
-Hawker Britton,SoftwareONE,1,1,Lobbyist,Client,#c780e8,#ff6961
-Hawker Britton,Spirits and Cocktails Australia,1,1,Lobbyist,Client,#c780e8,#ff6961
-Hawker Britton,Spotlight Property Group,1,1,Lobbyist,Client,#c780e8,#ff6961
-Hawker Britton,Star Scientific,1,1,Lobbyist,Client,#c780e8,#ff6961
-Hawker Britton,Stayz,1,1,Lobbyist,Client,#c780e8,#ff6961
-Hawker Britton,The Crane Industry Council of Australia,1,1,Lobbyist,Client,#c780e8,#ff6961
-Hawker Britton,The Don Moffatt Family Trust,1,1,Lobbyist,Client,#c780e8,#ff6961
-Hawker Britton,The Pharmacy Guild of Australia Queensland Branch,1,1,Lobbyist,Client,#c780e8,#ff6961
-Hawker Britton,Uber,1,1,Lobbyist,Client,#c780e8,#ff6961
-Hawker Britton,WPP AUNZ,1,1,Lobbyist,Client,#c780e8,#ff6961
-Hawker Britton,Zscaler,1,1,Lobbyist,Client,#c780e8,#ff6961
-Jacaranda Advisory,POS Brisbane Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Jacaranda Advisory,RT & JA Duncan ATF RT & JA Duncan Family Trust,1,1,Lobbyist,Client,#c780e8,#ff6961
-Jacaranda Advisory,STM Brisbane Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Jacaranda Advisory,Shardiez Pty Ltd ATF McCormack Family Trust,1,1,Lobbyist,Client,#c780e8,#ff6961
-Jacaranda Advisory,Sing's Vietnamese Kitchen Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Jacaranda Advisory,Sun Helensvale Tavern Pty Ltd ATF Sun Helensvale Tavern Discretionary Trust,1,1,Lobbyist,Client,#c780e8,#ff6961
-Jacaranda Advisory,Sun Hotel Enterprise Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Jacaranda Advisory,Sun Saltwater Creek Hotel Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Jacaranda Advisory,Sun Stafford Tavern Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Jacaranda Advisory,Swifts Leagues Club,1,1,Lobbyist,Client,#c780e8,#ff6961
-Jacaranda Advisory,WHITSUNDAY SPORT PARK INC,1,1,Lobbyist,Client,#c780e8,#ff6961
-Jacaranda Advisory,Yeronga Services  Club,1,1,Lobbyist,Client,#c780e8,#ff6961
-Jeanes Holland  & Associates,PreveCeutical (Australia) Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Jeanes Holland  & Associates,The University of Adelaide,1,1,Lobbyist,Client,#c780e8,#ff6961
-John Short,St Baker Energy Innovation Fund,1,1,Lobbyist,Client,#c780e8,#ff6961
-John Short,Sunset Power International Pty Ltd Trading as Delta Electricity,1,1,Lobbyist,Client,#c780e8,#ff6961
-Jutsum Advisory Pty Ltd,Responsible Energy,1,1,Lobbyist,Client,#c780e8,#ff6961
-Jutsum Advisory Pty Ltd,Skyborne Technologies Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Jutsum Advisory Pty Ltd,The Monte Family Trust,1,1,Lobbyist,Client,#c780e8,#ff6961
-Jutsum Advisory Pty Ltd,Urbanity Projects,1,1,Lobbyist,Client,#c780e8,#ff6961
-Jutsum Advisory Pty Ltd,Vitale Projects Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Jutsum Advisory Pty Ltd,Zero Industrials,1,1,Lobbyist,Client,#c780e8,#ff6961
-Kurrajong Strategic Counsel,Refrigerated Warehouse & Transport Association of Australia,1,1,Lobbyist,Client,#c780e8,#ff6961
-Kurrajong Strategic Counsel,TALi Health,1,1,Lobbyist,Client,#c780e8,#ff6961
-Kurrajong Strategic Counsel,The Kids Cancer Project,1,1,Lobbyist,Client,#c780e8,#ff6961
-Kurrajong Strategic Counsel,Tresillian Family Care Centres,1,1,Lobbyist,Client,#c780e8,#ff6961
-Kurrajong Strategic Counsel,WE Platt,1,1,Lobbyist,Client,#c780e8,#ff6961
-Kurrajong Strategic Counsel,Wounded Heroes Australia,1,1,Lobbyist,Client,#c780e8,#ff6961
-LK Creative Pty Ltd,ResourceCo,1,1,Lobbyist,Client,#c780e8,#ff6961
-LK Creative Pty Ltd,Salter Brothers Group,1,1,Lobbyist,Client,#c780e8,#ff6961
-Liquor Licensing Consultants,Amla Investments Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Liquor Licensing Consultants,Pro-Invest HotelsBrisbane Hydrus Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Liquor Licensing Consultants,Pro-invest Hotel Operating Sunshine Coast Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Liquor Licensing Consultants,Proper Pizza Cafe Bar Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Liquor Licensing Consultants,Rockpool Rac Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Liquor Licensing Consultants,Rodd & Gunn Australia Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Liquor Licensing Consultants,Sirrom Corporation (Aust.) Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Liquor Licensing Consultants,Strike Australia Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Liquor Licensing Consultants,Suncoast Cafes Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Liquor Licensing Consultants,TCC OPERATIONS PTY LTD,1,1,Lobbyist,Client,#c780e8,#ff6961
-Liquor Licensing Consultants,The Club Hotel 1938 Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Liquor Licensing Consultants,Tieri Country Club Inc,1,1,Lobbyist,Client,#c780e8,#ff6961
-Liquor Licensing Consultants,Virginia United Football Club Inc,1,1,Lobbyist,Client,#c780e8,#ff6961
-Liquor Licensing Consultants,secret squiggle pty ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Marketplace Communications,QM Properties,1,1,Lobbyist,Client,#c780e8,#ff6961
-Marketplace Communications,Urbis Pty Ltd ,1,1,Lobbyist,Client,#c780e8,#ff6961
-Michelson Alexander Pty Ltd,Alcohol and Drug Foundation,1,1,Lobbyist,Client,#c780e8,#ff6961
-Michelson Alexander Pty Ltd,Plumbing Industry Climate Action Centre,1,1,Lobbyist,Client,#c780e8,#ff6961
-Mission Consulting Solutions,Qld Taxi Licence Owners,1,1,Lobbyist,Client,#c780e8,#ff6961
-Next Level Strategic Services,REMONDIS Australia,1,1,Lobbyist,Client,#c780e8,#ff6961
-Next Level Strategic Services,Ramsay Health Care,1,1,Lobbyist,Client,#c780e8,#ff6961
-Next Level Strategic Services,RemServ,1,1,Lobbyist,Client,#c780e8,#ff6961
-Next Level Strategic Services,SAP Australia Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Next Level Strategic Services,Shell,1,1,Lobbyist,Client,#c780e8,#ff6961
-Next Level Strategic Services,Sunshine Coast Airport,1,1,Lobbyist,Client,#c780e8,#ff6961
-Next Level Strategic Services,World Surf League Australia,1,1,Lobbyist,Client,#c780e8,#ff6961
-Next Level Strategic Services,Yumba Meta Housing Association ,1,1,Lobbyist,Client,#c780e8,#ff6961
-Nexus APAC Pty Ltd,Redkite,1,1,Lobbyist,Client,#c780e8,#ff6961
-Nexus APAC Pty Ltd,ResMed Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Nexus APAC Pty Ltd,Sonic Healthcare,1,1,Lobbyist,Client,#c780e8,#ff6961
-Nexus APAC Pty Ltd,Upjohn Australia,1,1,Lobbyist,Client,#c780e8,#ff6961
-Nexus APAC Pty Ltd,Viatris Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Northstar Public Affairs Pty Ltd,Ampol,1,1,Lobbyist,Client,#c780e8,#ff6961
-Northstar Public Affairs Pty Ltd,Transgrid,1,1,Lobbyist,Client,#c780e8,#ff6961
-Northstar Public Affairs Pty Ltd,Tri-Star,1,1,Lobbyist,Client,#c780e8,#ff6961
-Ogilvy PR Agency Pty Limited,Amicus Therapeutics,1,1,Lobbyist,Client,#c780e8,#ff6961
-Ogilvy PR Agency Pty Limited,Rare Voices Australia,1,1,Lobbyist,Client,#c780e8,#ff6961
-Ogilvy PR Agency Pty Limited,Roche,1,1,Lobbyist,Client,#c780e8,#ff6961
-Ogilvy PR Agency Pty Limited,SMA Technology Australia Pty Ltd ,1,1,Lobbyist,Client,#c780e8,#ff6961
-Outcomes & Strategies Group,Varley Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Outcomes & Strategies Group,Varley Rafael Australia,1,1,Lobbyist,Client,#c780e8,#ff6961
-PYNE AND PARTNERS,SRC Australia Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-PYNE AND PARTNERS,TITOMIC LIMITED,1,1,Lobbyist,Client,#c780e8,#ff6961
-PYNE AND PARTNERS,Xamplify Group Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-PolicyWonks,Altum Properties No. 8 Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-PolicyWonks,NIOA,1,1,Lobbyist,Client,#c780e8,#ff6961
-PolicyWonks,Polestar,1,1,Lobbyist,Client,#c780e8,#ff6961
-PolicyWonks,Queensland Resources Council,1,1,Lobbyist,Client,#c780e8,#ff6961
-PolicyWonks,Quickcell Technology Products,1,1,Lobbyist,Client,#c780e8,#ff6961
-PolicyWonks,Ripley Projects,1,1,Lobbyist,Client,#c780e8,#ff6961
-PolicyWonks,Riverside Industrial Sands,1,1,Lobbyist,Client,#c780e8,#ff6961
-PolicyWonks,Riverside Marine,1,1,Lobbyist,Client,#c780e8,#ff6961
-PolicyWonks,SEA Electric,1,1,Lobbyist,Client,#c780e8,#ff6961
-PolicyWonks,Salesforce,1,1,Lobbyist,Client,#c780e8,#ff6961
-PolicyWonks,Silanna Group,1,1,Lobbyist,Client,#c780e8,#ff6961
-PolicyWonks,SkillsLogiQ,1,1,Lobbyist,Client,#c780e8,#ff6961
-PolicyWonks,Spinal Life Australia,1,1,Lobbyist,Client,#c780e8,#ff6961
-PolicyWonks,The Millmerran Rail Group,1,1,Lobbyist,Client,#c780e8,#ff6961
-PolicyWonks,Tri-Star Group,1,1,Lobbyist,Client,#c780e8,#ff6961
-PolicyWonks,United Petroleum,1,1,Lobbyist,Client,#c780e8,#ff6961
-PolicyWonks,Wabtec,1,1,Lobbyist,Client,#c780e8,#ff6961
-PolicyWonks,Wambo Cattle Company,1,1,Lobbyist,Client,#c780e8,#ff6961
-Porter Novelli Australia Pty Ltd,Rural Bank,1,1,Lobbyist,Client,#c780e8,#ff6961
-Porter Novelli Australia Pty Ltd,Yumbah Aquaculture,1,1,Lobbyist,Client,#c780e8,#ff6961
-Precise Hospitality Licensing,Platinum on Duporth Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Precise Hospitality Licensing,Prime Investment Group Holdings Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Precise Hospitality Licensing,Rise-bakery Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Precise Hospitality Licensing,Say Less Café and Bar Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Precise Hospitality Licensing,Shahnameh Group Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Precise Hospitality Licensing,Somerset Regional Council,1,1,Lobbyist,Client,#c780e8,#ff6961
-Precise Hospitality Licensing,Sunday Hospitality Group Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Precise Hospitality Licensing,Switch Distillery Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Precise Hospitality Licensing,Unovino Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Precise Hospitality Licensing,Woorim Developments Pty Ltd as Trustee for the Woorim Developments Trust,1,1,Lobbyist,Client,#c780e8,#ff6961
-Preferment Associates,Thoroughbred Breeders Australia,1,1,Lobbyist,Client,#c780e8,#ff6961
-PremierNational,Roberts Pizzarotti Pty Limited,1,1,Lobbyist,Client,#c780e8,#ff6961
-PremierNational,Smart Energy Council,1,1,Lobbyist,Client,#c780e8,#ff6961
-PremierNational,The Australian Energy Foundation,1,1,Lobbyist,Client,#c780e8,#ff6961
-PremierNational,Trustgrid Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Primary Communication,Professional Standards Council,1,1,Lobbyist,Client,#c780e8,#ff6961
-Primary Communication,Scouts Australia,1,1,Lobbyist,Client,#c780e8,#ff6961
-Primary Communication,Smiling Mind,1,1,Lobbyist,Client,#c780e8,#ff6961
-Primary Communication,Sonic Innovations Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Primary Communication,Study Group ,1,1,Lobbyist,Client,#c780e8,#ff6961
-Primary Communication,The Butterfly Foundation,1,1,Lobbyist,Client,#c780e8,#ff6961
-Primary Communication,Triple P International Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Primary Communication,Viking  River Cruises Australia Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Primary Communication,White Ribbon Australia,1,1,Lobbyist,Client,#c780e8,#ff6961
-Profile Consulting (Aust) Pty Ltd,Property Exchange Australia Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Profile Consulting (Aust) Pty Ltd,Smart Group Corporation,1,1,Lobbyist,Client,#c780e8,#ff6961
-Project Urban Pty Ltd,Alexandra Community Group,1,1,Lobbyist,Client,#c780e8,#ff6961
-Project Urban Pty Ltd,Pinzone Fishing Enterprises,1,1,Lobbyist,Client,#c780e8,#ff6961
-Project Urban Pty Ltd,Sunshine Hospice,1,1,Lobbyist,Client,#c780e8,#ff6961
-Project Urban Pty Ltd,The Jetty Specialists,1,1,Lobbyist,Client,#c780e8,#ff6961
-Project Urban Pty Ltd,Wave Parks Australia,1,1,Lobbyist,Client,#c780e8,#ff6961
-Promedia Public Relations,Robina Group,1,1,Lobbyist,Client,#c780e8,#ff6961
-Promedia Public Relations,TriCare,1,1,Lobbyist,Client,#c780e8,#ff6961
-Richardson Coutts Pty Ltd,Royal Caribbean,1,1,Lobbyist,Client,#c780e8,#ff6961
-Rowland Pty Ltd,Stanmore Resources Limited,1,1,Lobbyist,Client,#c780e8,#ff6961
-Royce Comm,Vaxxas,1,1,Lobbyist,Client,#c780e8,#ff6961
-SAS Group,RPS AAP CONSULTING PTY LTD,1,1,Lobbyist,Client,#c780e8,#ff6961
-SAS Group,Regional Development Australia Central and Western Queensland Inc,1,1,Lobbyist,Client,#c780e8,#ff6961
-SAS Group,Ripley Town Holdings Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-SAS Group,Sekisui House Australia Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-SAS Group,Smart Capital Group,1,1,Lobbyist,Client,#c780e8,#ff6961
-SAS Group,Sterlite Technologies Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-SAS Group,Titan Fibre Networks Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-SEC Newgate,American Express,1,1,Lobbyist,Client,#c780e8,#ff6961
-SEC Newgate,Southern Cross Community Healthcare,1,1,Lobbyist,Client,#c780e8,#ff6961
-SEC Newgate,The Minderoo Foundation,1,1,Lobbyist,Client,#c780e8,#ff6961
-SEC Newgate,Windlabsystems,1,1,Lobbyist,Client,#c780e8,#ff6961
-SEC Newgate,Wing Aviation Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-SEC Newgate,southern cross community healthcare,1,1,Lobbyist,Client,#c780e8,#ff6961
-Santoro Consulting,Queensland Maritime Museum Association,1,1,Lobbyist,Client,#c780e8,#ff6961
-Santoro Consulting,Risk 2 Solution Holdings Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Santoro Consulting,Salcef S.p.A,1,1,Lobbyist,Client,#c780e8,#ff6961
-Santoro Consulting,Saunders Havill Group,1,1,Lobbyist,Client,#c780e8,#ff6961
-Santoro Consulting,Sign Site Group Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Santoro Consulting,Stormwater360 Australia ,1,1,Lobbyist,Client,#c780e8,#ff6961
-Santoro Consulting,TechnologyOne,1,1,Lobbyist,Client,#c780e8,#ff6961
-Santoro Consulting,The Digital Filing Company Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Sling and Stone,AMAZON COMMERCIAL SERVICES PTY LTD,1,1,Lobbyist,Client,#c780e8,#ff6961
-Sling and Stone,SENDLE PTY LTD,1,1,Lobbyist,Client,#c780e8,#ff6961
-Sling and Stone,SLACK AUSTRALIA PTY LTD,1,1,Lobbyist,Client,#c780e8,#ff6961
-Sling and Stone,TWITTER AUSTRALIA HOLDINGS PTY LIMITED,1,1,Lobbyist,Client,#c780e8,#ff6961
-Sling and Stone,Texthelp Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Sling and Stone,The Trustee for Future Super Fund,1,1,Lobbyist,Client,#c780e8,#ff6961
-Sling and Stone,WYWM SERVICES PTY LTD,1,1,Lobbyist,Client,#c780e8,#ff6961
-Sling and Stone,XERO AUSTRALIA PTY LIMITED,1,1,Lobbyist,Client,#c780e8,#ff6961
-Sling and Stone,XREF (AU) PTY LTD,1,1,Lobbyist,Client,#c780e8,#ff6961
-Sling and Stone,ZIPMONEY PAYMENTS PTY LTD,1,1,Lobbyist,Client,#c780e8,#ff6961
-Social Impact (Qld),Alceon,1,1,Lobbyist,Client,#c780e8,#ff6961
-Social Impact (Qld),Queensland Cricketers Club,1,1,Lobbyist,Client,#c780e8,#ff6961
-Social Impact (Qld),Rino Recycling,1,1,Lobbyist,Client,#c780e8,#ff6961
-Social Impact (Qld),Saorsa Health,1,1,Lobbyist,Client,#c780e8,#ff6961
-Social Impact (Qld),South Rugby League,1,1,Lobbyist,Client,#c780e8,#ff6961
-Social Impact (Qld),Southern Oil refining,1,1,Lobbyist,Client,#c780e8,#ff6961
-Social Impact (Qld),SynBio,1,1,Lobbyist,Client,#c780e8,#ff6961
-Social Impact (Qld),Ti Tree bioENERGY,1,1,Lobbyist,Client,#c780e8,#ff6961
-Social Impact (Qld),WestRex,1,1,Lobbyist,Client,#c780e8,#ff6961
-Spring Street Advisory,RES Australia,1,1,Lobbyist,Client,#c780e8,#ff6961
-Spring Street Advisory,Resort Brokers Asia Pacific,1,1,Lobbyist,Client,#c780e8,#ff6961
-Spring Street Advisory,Vestas Australia,1,1,Lobbyist,Client,#c780e8,#ff6961
-Spring Street Advisory,Villawood Properties,1,1,Lobbyist,Client,#c780e8,#ff6961
-Staerk Government and Media,AJ Hackett,1,1,Lobbyist,Client,#c780e8,#ff6961
-Staerk Government and Media,Rex Energy Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Staerk Government and Media,Salerno Law,1,1,Lobbyist,Client,#c780e8,#ff6961
-Statecraft Pty Ltd,Yancoal Australia Limited,1,1,Lobbyist,Client,#c780e8,#ff6961
-Strategic Pathways Consulting,S.E.L.F. Noosa Pty Ltd as Trustee for the NFM Unit Trust trading as Noosa Farmers Market,1,1,Lobbyist,Client,#c780e8,#ff6961
-Strategic Political Counsel,Power Ledger,1,1,Lobbyist,Client,#c780e8,#ff6961
-Strategic Political Counsel,RETURNED & SERVICES LEAGUE OF AUSTRALIA (QUEENSLAND BRANCH) KEDRON-WAVELL SUB BRANCH INCORPORATED,1,1,Lobbyist,Client,#c780e8,#ff6961
-TG Public Affairs,1st Group,1,1,Lobbyist,Client,#c780e8,#ff6961
-TG Public Affairs,Port Waratah Coal Services Limited ,1,1,Lobbyist,Client,#c780e8,#ff6961
-TG Public Affairs,Prime Super Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-TG Public Affairs,Regis Aged Care Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-TG Public Affairs,Rheinmetall Defence,1,1,Lobbyist,Client,#c780e8,#ff6961
-TG Public Affairs,Rural Funds Management,1,1,Lobbyist,Client,#c780e8,#ff6961
-TG Public Affairs,SAAB,1,1,Lobbyist,Client,#c780e8,#ff6961
-TG Public Affairs,Seven West Media,1,1,Lobbyist,Client,#c780e8,#ff6961
-TG Public Affairs,Silver Lake Partners,1,1,Lobbyist,Client,#c780e8,#ff6961
-TG Public Affairs,Sims Metal Management,1,1,Lobbyist,Client,#c780e8,#ff6961
-TG Public Affairs,Standards Australia,1,1,Lobbyist,Client,#c780e8,#ff6961
-TG Public Affairs,Stormbringer Studios Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-TG Public Affairs,Strong Room Technology Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-TG Public Affairs,Sureway Employment and Training,1,1,Lobbyist,Client,#c780e8,#ff6961
-TG Public Affairs,TPG Telecom,1,1,Lobbyist,Client,#c780e8,#ff6961
-TG Public Affairs,The Shell Company of Australia Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-TG Public Affairs,The University of Notre Dame Australia,1,1,Lobbyist,Client,#c780e8,#ff6961
-TG Public Affairs,UGL Pty Limited,1,1,Lobbyist,Client,#c780e8,#ff6961
-TG Public Affairs,Vanguard Health,1,1,Lobbyist,Client,#c780e8,#ff6961
-TG Public Affairs,Viva Energy Australia,1,1,Lobbyist,Client,#c780e8,#ff6961
-TONY ROLFE Consulting,Powerhouse Hub,1,1,Lobbyist,Client,#c780e8,#ff6961
-Taylor Connect,Qube Logistics,1,1,Lobbyist,Client,#c780e8,#ff6961
-Taylor Connect,RESPONSE GROUP INTERNATIONAL PTY LTD,1,1,Lobbyist,Client,#c780e8,#ff6961
-Taylor Connect,South Burnett Regional Council,1,1,Lobbyist,Client,#c780e8,#ff6961
-Test Only,Test Client 2 Only,1,1,Lobbyist,Client,#c780e8,#ff6961
-Test Only,Test Client Only,1,1,Lobbyist,Client,#c780e8,#ff6961
-Test by QIC 4,test,1,1,Lobbyist,Client,#c780e8,#ff6961
-The Civic Group,Q-bital Healthcare Solutions Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-The Civic Group,Radiation Therapy Advisory Group,1,1,Lobbyist,Client,#c780e8,#ff6961
-The Civic Group,Vicinity Centres PM Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-The Fifth Estate,Visy Industries Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-The Inner Circle Strategic Advisory,Surf Life Saving Queensland,1,1,Lobbyist,Client,#c780e8,#ff6961
-The Inner Circle Strategic Advisory,The Walt Disney Company,1,1,Lobbyist,Client,#c780e8,#ff6961
-The Premier Communications Group,Quandamooka Yoolooburrabee Aboriginal Corporation,1,1,Lobbyist,Client,#c780e8,#ff6961
-The Premier Communications Group,Rhomberg Rail Australia,1,1,Lobbyist,Client,#c780e8,#ff6961
-WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS,Swiss Re,1,1,Lobbyist,Client,#c780e8,#ff6961
-WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS,Youth Insearch,1,1,Lobbyist,Client,#c780e8,#ff6961
-Walsh Stevens,PLATEAU PLANTS,1,1,Lobbyist,Client,#c780e8,#ff6961
-Walsh Stevens,XCOAL MINING SERVICES PTY LTD,1,1,Lobbyist,Client,#c780e8,#ff6961
-Watt Advocacy & Communications,Wounds Australia Limited,1,1,Lobbyist,Client,#c780e8,#ff6961
-Wilkinson Butler,Svitzer,1,1,Lobbyist,Client,#c780e8,#ff6961
-Wilkinson Butler,Tindo Solar,1,1,Lobbyist,Client,#c780e8,#ff6961
-Willard Public Affairs Pty Ltd,U.S. Chamber of Commerce,1,1,Lobbyist,Client,#c780e8,#ff6961
-Willard Public Affairs Pty Ltd,Vertex Pharmaceuticals (Australia) Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Willard Public Affairs Pty Ltd,Zoetis Australia Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
-Zealifi,Sunnybank Community & Sports Club,1,1,Lobbyist,Client,#c780e8,#ff6961
-advico,Within Energy Pty Ltd,1,1,Lobbyist,Client,#c780e8,#ff6961
+Adams + Sparkes Town Planning and Development,Adam Seaton,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Adams + Sparkes Town Planning and Development,Cameron Adams,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Adams + Sparkes Town Planning and Development,Michael Lyell,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Adams + Sparkes Town Planning and Development,Peter  Sparkes,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Alistair Nicholas Consulting Pty Ltd,Alistair Nicholas,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Allan King Consultancy,Allan King,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Anacta Strategies Pty Ltd,Jessame Tibbitts,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Anacta Strategies Pty Ltd,Liam O'Regan,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Anacta Strategies Pty Ltd,Victoria Newton,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Anna Grosskreutz Consulting,Anna Grosskreutz,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Antinomies Advisory Ptd Ltd,Gavin Jackman,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Atlas Alliance,Douglas Pye,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Australian Public Affairs,Damian Kelly,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Australian Public Affairs,Elizabeth Kelleher-Cook,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Australian Public Affairs,Juan Paolo Mendoza (Paul) Mills,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Australian Public Affairs,Matthew Doman,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Australian Public Affairs,Nathan Vass,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Australian Public Affairs,Nick Trainor,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Australian Public Affairs,Paula Gelo,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Australian Public Affairs,William Briggs,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Australian Society Of Ophthalmologists (formerly Vanguard Consulting & Services),Katrine Ronne,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Australian Society Of Ophthalmologists (formerly Vanguard Consulting & Services),Kerry Gallagher,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Australian Strategic Advisory,Kevin Parer,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+BB Win Win Outcomes,Brenden Brien,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+BBS Communications Group Pty Ltd,Alexandra Lucey,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+BBS Communications Group Pty Ltd,Allegra Young,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+BBS Communications Group Pty Ltd,Amanda Firth,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+BBS Communications Group Pty Ltd,Barbara Haines,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+BBS Communications Group Pty Ltd,Ehmily Nicholson,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+BBS Communications Group Pty Ltd,Eliza Woods,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+BBS Communications Group Pty Ltd,Gina Calder,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+BBS Communications Group Pty Ltd,Justine Nolan,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+BBS Communications Group Pty Ltd,Lisa Nixon,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+BBS Communications Group Pty Ltd,Louise Cruice,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+BBS Communications Group Pty Ltd,Sara Benallack,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+BBS Communications Group Pty Ltd,Verity Dwan,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Barton Deakin,Andrew Humpherson,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Barton Deakin,Anthony Benscher,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Bossy Group,Peter McMahon,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+CGM Communications Pty Ltd,Anthony Fisk,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+CGM Communications Pty Ltd,Daniel Smith,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+CMAX Advisory,Alexander Wilson,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+CMAX Advisory,Alyssa Waters,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+CMAX Advisory,Andrew Hargrave,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+CMAX Advisory,Cameron Jones,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+CMAX Advisory,Christian Taubenschlag,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+CMAX Advisory,Claire Woodwell,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+CMAX Advisory,Grace Marsh,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+CMAX Advisory,Jacob McKenzie,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+CMAX Advisory,Jarryd Williamson,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+CMAX Advisory,Jason Staines,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+CMAX Advisory,Jaya Pastor-Elsegood,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+CMAX Advisory,Jennifer Doggett,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+CMAX Advisory,Joshua Copland,3,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+CMAX Advisory,Maiya Saita,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+CMAX Advisory,Patrick Doyle,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+CMAX Advisory,Tara Taubenschlag,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+CMAX Advisory,Tyson Sara,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+CPR Communications and Public Relations Pty Ltd (Melbourne),Brendan Rowswell,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+CRISIS&COMMS CO,PAOLO BINI,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+CT Group,Remo Nogarotto,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+CT Research Strategies Results,Avanti Oberoi,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Candra Business Advisers,David Meale,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Cannings Purple,Michael Cairnduff,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Chatto Creek Advisory,Russell Scoular,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Chikarovski & Associates Pty Ltd,Angela Vithoulkas,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Chikarovski & Associates Pty Ltd,Kerry Chikarovski,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Chris Schacht,Chris Schacht,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Christmas Jalili,Damon Jalili,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Commercial Licensing Specialists,Jennifer Anne Wood,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Commercial Licensing Specialists,Melynda Robinson,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Commercial Licensing Specialists,Zoe Greenwood,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Cornerstone Group,Daniel Hoare,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Cornerstone Group,Joseph Tannous,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Cornerstone Group,Keren Davies,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Cornerstone Group,Kirsten Daggar-Nickson,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Cornerstone Group,Nicholas Melas,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Counsel House Pty Ltd,Andrew Porter,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Counsel House Pty Ltd,Claire March,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+DNS Specialist Services,Bernard Osmond,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+DNS Specialist Services,Brandon Nixon-Smith,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+DNS Specialist Services,Candice Komsellis,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+DNS Specialist Services,Clear Henderson,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+DNS Specialist Services,Daniel Nixon-Smith,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+DNS Specialist Services,Gemma Kivell,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+DNS Specialist Services,Monique Nixon-Smith,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+DPG Advisory Solutions Pty Ltd,Alistair Coe,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+DPG Advisory Solutions Pty Ltd,David Gazard,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+DPG Advisory Solutions Pty Ltd,Sasha Grebe,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+DWS Hospitality Specialists,John Dickson,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+DWS Hospitality Specialists,Karen Miles,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+DWS Hospitality Specialists,Simone Barber,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Daniel McDougall,Daniel McDougall,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Diplomacy,Adam Kilgour,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Diplomacy,Joshua Williams,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Domestique Consulting Australia,Ben Taylor,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Empower Pty Ltd,Dolan Hayes,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Essential Media Communications,Anthony Douglas,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Essential Media Communications,Peter Stahel,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+FIPRA Australia,John Richardson,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+FIPRA Australia,Stephen Coutts,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+FPL Advisory,Ross Dennis,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+FPL Advisory,Stefan Anjou,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+FPL Advisory,Steven Cusworth,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+FTI Consulting,Georgia Dillon,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+FTI Consulting,Sarah Roberts,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+FTI Consulting,Shannon Walker,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+FTI Consulting,Tara Gasior,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Federation Public Affairs,Katherine Melville,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Federation Public Affairs,MICHAEL GLEESON,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Fifty Acres - The Communications Agency,Ethan Wales,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Fifty Acres - The Communications Agency,Joanne Scard,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Forrester Consulting,Jeff Popp,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+GR Connect Pty Ltd,Lyndal Maloney,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+GR Solutions,Wayne Matthew,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+GRA Partners Pty Limited,Jason Marocchi,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+GRACosway Pty Ltd,Alyssa Patterson,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+GRACosway Pty Ltd,Andrew Cox,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+GRACosway Pty Ltd,Ashleigh Worthley,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+GRACosway Pty Ltd,Elizabeth Walker,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+GRACosway Pty Ltd,Genevieve Nolan,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+GRACosway Pty Ltd,Hilary D'Angelo,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+GRACosway Pty Ltd,Kirsten Mulley,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+GRACosway Pty Ltd,Kirstin Payne,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+GRACosway Pty Ltd,Lewis Whittaker,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+GRACosway Pty Ltd,Madeleine Abbott,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+GRACosway Pty Ltd,Nicolaos Xerakias,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+GRACosway Pty Ltd,Richard  King ,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+GRACosway Pty Ltd,Sahil Prasad,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+GRACosway Pty Ltd,Sophie Allen,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Gaming Machine Services,Kyle Birks,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Gaming Machine Services,Laurence J Birks,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Government and Corporate Advisory Network,Maree Davenport,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Govstrat Pty Ltd,Christopher Forrester,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Govstrat Pty Ltd,Damian Power,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Govstrat Pty Ltd,PETER TURNBULL,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Govstrat Pty Ltd,Robert Borbidge,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Grace Portolesi Connect,Grace Portolesi,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Groundswell Leaders,Justin McGurgan,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Hawker Britton,Ankita Panjratan,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Hawker Britton,Emma Ramage,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Hawker Britton,Simon Banks,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Iemma Patterson Premier Advisory,Morris Iemma,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Jeanes Holland and Associates,David Holland,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Jeanes Holland and Associates,Susan Jeanes,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+John Connolly & Partners,John Connolly,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+John Short,John Short,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Jutsum Advisory Pty Ltd,Matthew Jutsum,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Kurrajong Strategic Counsel,Adrian Dolahenty,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+LK Creative Pty Ltd,Llewellyn Rees,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Leisure Solutions,Angus Robinson,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Liquor Licensing Consultants,Barry Christensen,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Liquor Licensing Consultants,Susanne  Christensen ,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+London Agency,Philippa Bosquet,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+London Agency,Sam Schiphorst,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+London Agency,Sophia Heather,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Louise Ryan Consulting,Louise Ryan,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Lunik,Brian Kim,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Lunik,Gavin Clancy,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Lunik,Zackary McLennan,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+MB Liquor Licensing,Kerrie Blong,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+MB Liquor Licensing,Michael Blong,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+MCM Strategic Communications Pty Ltd,Hamish Arthur,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Media and Public Affairs,George Hazim,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Michelson Alexander Pty Ltd,Aisling Acton,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Michelson Alexander Pty Ltd,Alexander Whittle,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Michelson Alexander Pty Ltd,Andrew Stewart,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Michelson Alexander Pty Ltd,Elyse Hogan,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Michelson Alexander Pty Ltd,James Fitzpatrick,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Michelson Alexander Pty Ltd,Jeremy Phillips-Yelland,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Michelson Alexander Pty Ltd,Michelson Steve,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Michelson Alexander Pty Ltd,Sabrine Navarro,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Mission Consulting Solutions,Anne Pleash,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Morph Consulting Services,Philip Brown,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Morph Consulting Services,Stuart Watters,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Narration,Graham Young,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Nexus APAC Pty Ltd,Addison Ridge,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Nexus APAC Pty Ltd,Edward Strong,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Nexus APAC Pty Ltd,Justin Fazzolari,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Nexus APAC Pty Ltd,Meagan Lawson,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Nexus APAC Pty Ltd,Nick Campbell,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Nexus APAC Pty Ltd,Riley Campbell,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Northstar Public Affairs Pty Ltd,Michael Morgan,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Nuvho Pty Ltd,Jude Bolger,2,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Ogilvy PR Agency Pty Limited,Dominique Brownrigg,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Ogilvy PR Agency Pty Limited,Edward Schiller,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Ogilvy PR Agency Pty Limited,Emily Ditchburn,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Ogilvy PR Agency Pty Limited,Emma Nunan,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Ogilvy PR Agency Pty Limited,Fiona Sinclair,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Ogilvy PR Agency Pty Limited,Gabriela Czwarnos,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Ogilvy PR Agency Pty Limited,Isabel Anderson,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Ogilvy PR Agency Pty Limited,Melissa Devine,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Ogilvy PR Agency Pty Limited,Peta Lange,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Ogilvy PR Agency Pty Limited,Rachel Stanton,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Open Door Consulting,Andrew Soter,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Outcomes & Strategies Group,Robert (Bob) Baldwin,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+PYNE AND PARTNERS,Adam Howard,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+PYNE AND PARTNERS,Andrew Joyce,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+PYNE AND PARTNERS,Anthony Hodges,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+PYNE AND PARTNERS,Christopher Pyne,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+PYNE AND PARTNERS,Jack de Hennin,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+PYNE AND PARTNERS,Kacey Lam,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+PYNE AND PARTNERS,Tamika Dartnell-Moore,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+PYNE AND PARTNERS,Will Redmond,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+PolicyWonks,Kirby Anderson,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Porter Novelli Australia Pty Ltd,Arjun Ganeshalingam,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Porter Novelli Australia Pty Ltd,Patrick McClelland,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Porter Novelli Australia Pty Ltd,Rhys Ryan,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Precise Hospitality Licensing,Maycon Collares Gripp,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Preferment Associates,John Lake,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+PremierNational,Antony Anisse,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+PremierNational,Darrin Barnett,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+PremierNational,Fiona Scott,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+PremierNational,Georgia de Mestre,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+PremierNational,Graham Richardson,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+PremierNational,Ian Hancock,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+PremierNational,Ilana Waldman,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+PremierNational,Lachlan Crombie,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+PremierNational,Mark Jones,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+PremierNational,Michael Photios,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+PremierNational,Thomas Kenny,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Primary Communication,Christopher Hall,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Primary Communication,Craig Regan,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Primary Communication,Duncan Bremner,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Primary Communication,Francesco Coletta,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Primary Communication,Jessie Nguyen,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Project Urban Pty Ltd,Andrew  Stevens,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Project Urban Pty Ltd,John McKennariery,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Promedia Public Relations,Alister Thomson,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Promedia Public Relations,Jeremy Scott,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Promedia Public Relations,Jondayah Martin,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Promedia Public Relations,Karla Costello,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Promedia Public Relations,Melissa Burrell,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Promedia Public Relations,Naomi Sanders,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Promedia Public Relations,Sheree Breust,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Promedia Public Relations,Tanya Waite,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Pynfall Pty Ltd,Hannelore Duczek,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+RSA Liquor Professionals t/a; Russell Steele & Assoc Pty Ltd,Russell Steele,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Red Tape Busters Pty Ltd,Shane Bowering,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Res Publica Pty Ltd,Gabriel McDowell,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Res Publica Pty Ltd,Nicola McAlpine,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Richardson Coutts Pty Ltd,Shannan Manton,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Rowland Pty Ltd,Alasdair Jeffrey,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Rowland Pty Ltd,Geoff Rodgers,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Rowland Pty Ltd,Reginald Mickel,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Rowland Pty Ltd,Samuel Walker,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Rowland Pty Ltd,Tristan Bick,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Royce Comm,Peter Mahon,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Royce Comm,Richard Amos,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Royce Comm,Simon Westaway,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+S A Milgate & Associates Pty Ltd,Stephen Milgate,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+SAS Group,Bernard Ripoll,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+SAS Group,James Baker,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+SAS Group,Johnathon Baque,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+SAS Group,Lisa Palu,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+SAS Group,Peter Costantini,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+SAS Group,Shayne Sutton,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+SAS Group,Winston Harris,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+SEC Newgate,Alistair Coleman,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+SEC Newgate,Finn McCarthy,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+SEC Newgate,Jamin Smith,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+SEC Newgate,Tanya Creighton,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Santoro Consulting,Santo Santoro,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Sling and Stone,Hayley Schubert,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Sling and Stone,James Hutchinson,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Sling and Stone,Vuki Vujasinovic,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Social Impact (Qld),Troy Collings,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Spring Street Advisory,Ken McAlpine,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Staerk Government and Media,Darren Sly,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Staerk Government and Media,Graham Staerk,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Strata Solve,Christopher Irons,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Strategic Corporate Affairs Pty Ltd,Frank Topham,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Strategic Pathways Consulting,Glen Elmes,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Strategic Political Counsel,David Gracey,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Strategic Political Counsel,Michael Kauter,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Suncoast Business Consultants Pty Ltd,Leo Zussino,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+TG Public Affairs,Brendan Tegg,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+TG Public Affairs,John Brenton,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+TG Public Affairs,Mark Brandon-Baker,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+TG Public Affairs,Megan Redmond,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+TG Public Affairs,Michael Choueifate,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+TG Public Affairs,Paul Bigsby-Chamberlin,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+TJM Public Affairs,Tim McPhail,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+TONY ROLFE Consulting,Anthony Rolfe,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Taylor Connect,Clare Wilkes,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Test Only,Test1 Only,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+The Civic Partnership,Alan Griffin,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+The Civic Partnership,Jason Aldworth,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+The Civic Partnership,Leon Beswick,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+The Civic Partnership,Lucy Kozlowski,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+The Civic Partnership,Timothy Cook,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+The Fifth Estate,William  Hurditch,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+The Inner Circle Strategic Advisory,Karly Abbott,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+The Inner Circle Strategic Advisory,Kathleen Quinn,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+The PR Counsel Pty Ltd,Kristy McSweeney,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+The Premier Communications Group,Richard Lenarduzzi,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+The Strand 365 PTY LTD,Matthew Peel,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+The Write Connection,Alexandra Kennedy ,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Tony Charters and Associates,Anthony Charters,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Trojan Corporate,Narelle Davidson,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Unravelling Red Tape Pty Ltd,Elaine Abery,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS,Benjamin Haslem,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Walsh Stevens,Matt Stevens,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Watt Advocacy & Communications,Kel Watt,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Watt Advocacy & Communications,Louise Yabsley,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Wilkinson Butler,Andrew Butler,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Wilkinson Butler,Mark Abernethy,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Wilkinson Butler,Nick Albrow,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Wilkinson Butler,Peter Wilkinson,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Wilkinson Butler,Stephen Mesa,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Willard Public Affairs Pty Ltd,Andrew Plumley,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Willard Public Affairs Pty Ltd,David Miles,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Willard Public Affairs Pty Ltd,Matthew Moran,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Woodhill Communication Pty Ltd,Stephen Woodhill,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+advico,Nino Lalic,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+culturev8,Christopher McLaughlin,1,1.0,Lobbying Firm,Lobbyist,#9d94ff,#c780e8
+Adams + Sparkes Town Planning and Development,W & M Carnall Pty Ltd ,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Anacta Strategies Pty Ltd,Plenary Group,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Anacta Strategies Pty Ltd,Poseidon Sea Pilots Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Anacta Strategies Pty Ltd,QER Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Anacta Strategies Pty Ltd,Queensland Motorways Pty Ltd ,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Anacta Strategies Pty Ltd,Redman Solutions Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Anacta Strategies Pty Ltd,Salary Packaging Australia Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Anacta Strategies Pty Ltd,SeaSwift,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Anacta Strategies Pty Ltd,Shine Justice Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Anacta Strategies Pty Ltd,Smart Pups Assistance Dogs for Special Needs Children Inc,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Anacta Strategies Pty Ltd,Streem Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Anacta Strategies Pty Ltd,Sunshine Coast Orthopaedic Group,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Anacta Strategies Pty Ltd,URANNAH WATER SCHEME PTY LTD,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Anacta Strategies Pty Ltd,Unitywater,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Anacta Strategies Pty Ltd,Vast Solar Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Anacta Strategies Pty Ltd,Wanless Waste Management Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Anacta Strategies Pty Ltd,Watpac Construction (Qld) Pty Ltd ,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Anacta Strategies Pty Ltd,White Wind Project No 1 Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Anacta Strategies Pty Ltd,WorkHaven Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Anacta Strategies Pty Ltd,Yabbr Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Anna Grosskreutz Consulting,Village Fair Investments Pty Ltd aft the Beerwah Marketplace,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Atlas Alliance,VERTO,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Australian Public Affairs,Angel Flight Australia (ABN 43 103 477 069),1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Australian Public Affairs,Stillbirth Foundation Australia,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Australian Public Affairs,The Peer Support Foundation Ltd (ABN 40 002 634 853),1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Australian Strategic Advisory,Southern Pacific Flight Training,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+BB Win Win Outcomes,StandbyU Foundation,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+BB Win Win Outcomes,The Better Health Generation Australia & UK,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+BBS Communications Group Pty Ltd,Property Leaders Brisbane,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+BBS Communications Group Pty Ltd,RSM Australia Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Barton Deakin,The McKinnon Institute for Political Leadership,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+CMAX Advisory,SECORA,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+CMAX Advisory,SYPAQ SYSTEMS PTY LTD,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+CMAX Advisory,Soldier On,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+CMAX Advisory,Stryker,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+CPR Communications and Public Relations Pty Ltd (Melbourne),ANDHealth,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+CPR Communications and Public Relations Pty Ltd (Melbourne),UFC,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+CRISIS&COMMS CO,REFINITIV,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+CT Group,Remondis,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+CT Group,Serco Group Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+CT Group,Sherdar Australia Bio Refinery Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+CT Group,Soul Safe Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+CT Group,United Petroleum Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Candra Business Advisers,Wik Projects Limited,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Candra Business Advisers,Wik Timber Holdings Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Cannings Purple,Returned & Services League of Australia (Queensland Branch),1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Capital Integrity,Virsec,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Christmas Jalili,Trinity Health Enterprise (HK) Limited,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,All About the Food Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,Paradise Cocktails & Syrups Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,Players Showgirls Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,"Qld Hotel & Liquor Group Pty Ltd atf The Windsor Hotel & Motel, Dalby Unit Trust",1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,Redbank Nominees Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,Ridgeway Mak Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,Ruedas Business Investment Pty Ltd ,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,Saga Hospitality Group Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,Salt House Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,Sandmore Marketing Pty Ltd ATF WEK Business Trust ,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,Santinos Restaurant Pty Ltd ,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,Sexcess Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,Shibui Qld Pty Ltd ATF Shibui Unit Trust ,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,Shooters JV Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,Showbar140 Pty Ltd ,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,Simon James Pty Ltd ,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,South Sky Assets Pty Ltd ,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,Springbok Foods Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,Strand Properties Townsville Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,Sun Tourism Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,Tap House Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,The Escape Group Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,The Hi Fi Brisbane Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,The Jungle Village Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,The Platinum Empire Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,The Rising Sun Restaurant & Bar,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,Tuckeria Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,Tursiops Pty Ltd atf P.L Lynch Family Trust,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,VNP Corporation Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Commercial Licensing Specialists,Ying Enterprise Pty Ltd ,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Conlon Advisory,Vintage Energy,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Cornerstone Group,Samstone Pty Ltd ,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Cornerstone Group,Seek Limited,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Cornerstone Group,TAMAYA PTY LTD,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Cornerstone Group,TOMRA Group,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Cornerstone Group,WINC AUSTRALIA & NEW ZEALAND PTY LTD,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Counsel House Pty Ltd,QBE Management Services Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Counsel House Pty Ltd,RMG HYDROGEN TECHNOLOGIES PTY LTD,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+DPG Advisory Solutions Pty Ltd,Port of Newcastle,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+DPG Advisory Solutions Pty Ltd,Private Healthcare Australia,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+DPG Advisory Solutions Pty Ltd,Racing Australia,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+DPG Advisory Solutions Pty Ltd,"Recruitment, Consulting & Staffing Association",1,1.0,Lobbyist,Client,#c780e8,#ff6961
+DPG Advisory Solutions Pty Ltd,Rio Tinto,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+DPG Advisory Solutions Pty Ltd,Stockland,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+DPG Advisory Solutions Pty Ltd,Swyftx,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+DPG Advisory Solutions Pty Ltd,Wesfarmers Limited,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+DWS Hospitality Specialists,Rainbow Bay Surf Life Savers Supporters Association Inc,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+DWS Hospitality Specialists,Sherwood Services Club ,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+DWS Hospitality Specialists,Spirit Hotels Group ,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+DWS Hospitality Specialists,Stanthorpe RSL Services Club Inc,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+DWS Hospitality Specialists,Tewantin Noosa RSL,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Digby McLeay Consulting,Queensland Pacific Metals Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Diplomacy,The Nature Conservancy,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Edelman Australia Pty Ltd,Samsung Electronics Australia,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Edelman Australia Pty Ltd,Schlumberger Australia Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Empower Pty Ltd,Rivergate Marina and Shipyard,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Empower Pty Ltd,Townsville and District Rugby Union,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Empower Pty Ltd,the trustee for the Elementsnq unit trust,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+FIPRA Australia,Royal Caribbean Cruises Australia P/L,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+FIPRA Australia,"Royal Caribbean Cruises Limited, USA",1,1.0,Lobbyist,Client,#c780e8,#ff6961
+FPL Advisory,V2 FOOD PTY LTD,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+FTI Consulting,Sympli Australia Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+FTI Consulting,Tetra Pak,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Federation Public Affairs,SPM Assets Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Fifty Acres - The Communications Agency,Young Change Agents,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Fitzpatrick Advisory,Tellus Holdings,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Forrester Consulting,Riverlife,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Forrester Consulting,Story Bridge Adventure Climb,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+GR Solutions,Seacliff Developments Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+GR Solutions,The Linden Group Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+GRA Partners Pty Limited,SIXDegrees Hospitality Group,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+GRA Partners Pty Limited,St Francis Group,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+GRACosway Pty Ltd,ALDI Stores,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+GRACosway Pty Ltd,Alex Fraser Group,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+GRACosway Pty Ltd,Plotlogic Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+GRACosway Pty Ltd,Prosegur Australia Pty Limited,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+GRACosway Pty Ltd,RateSetter Australia RE Limited,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+GRACosway Pty Ltd,Red Nose Limited,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+GRACosway Pty Ltd,Responsible Wagering Australia Holdings Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+GRACosway Pty Ltd,Sands - Miscarriage Stillbirth Newborn Death Support,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+GRACosway Pty Ltd,Source Global,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+GRACosway Pty Ltd,Switch Health,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+GRACosway Pty Ltd,TeamKids,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+GRACosway Pty Ltd,The National Council of the Young Men's Christian Associations of Australia,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+GRACosway Pty Ltd,The Royal Australian College of General Practitioners Ltd (RACGP),1,1.0,Lobbyist,Client,#c780e8,#ff6961
+GRACosway Pty Ltd,TheirCare Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+GRACosway Pty Ltd,Trailers Downunder Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+GRACosway Pty Ltd,URBNSURF GROUP Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+GRACosway Pty Ltd,Victorian Trailers Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+GRACosway Pty Ltd,Zero Mass Water (Australia) Pty Limited,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Government and Corporate Advisory Network,Safety Australia Group,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Govstrat Pty Ltd,Port of Brisbane Pty Ltd ,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Govstrat Pty Ltd,QTECTIC,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Govstrat Pty Ltd,QUINBROOK INFRASTRUCTURE PARTNERS PTY LTD,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Govstrat Pty Ltd,Retail Guild,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Govstrat Pty Ltd,Rio Tinto Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Govstrat Pty Ltd,Springfield Land Corporation,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Govstrat Pty Ltd,Star Entertainment Group,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Govstrat Pty Ltd,Sun Metals Corporation,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Govstrat Pty Ltd,Tabcorp Holdings,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Govstrat Pty Ltd,Village Road Show,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Hawker Britton,AMP Capital,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Hawker Britton,Amazon,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Hawker Britton,Clothing the Gaps,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Hawker Britton,QBE Insurance Australia Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Hawker Britton,RG Property,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Hawker Britton,Santé Group,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Hawker Britton,Silver Chain Group,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Hawker Britton,SoftwareONE,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Hawker Britton,Spirits and Cocktails Australia,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Hawker Britton,Spotlight Property Group,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Hawker Britton,Star Scientific,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Hawker Britton,Stayz,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Hawker Britton,The Crane Industry Council of Australia,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Hawker Britton,The Don Moffatt Family Trust,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Hawker Britton,The Pharmacy Guild of Australia Queensland Branch,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Hawker Britton,Uber,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Hawker Britton,WPP AUNZ,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Hawker Britton,Zscaler,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Jacaranda Advisory,POS Brisbane Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Jacaranda Advisory,RT & JA Duncan ATF RT & JA Duncan Family Trust,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Jacaranda Advisory,STM Brisbane Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Jacaranda Advisory,Shardiez Pty Ltd ATF McCormack Family Trust,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Jacaranda Advisory,Sing's Vietnamese Kitchen Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Jacaranda Advisory,Sun Helensvale Tavern Pty Ltd ATF Sun Helensvale Tavern Discretionary Trust,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Jacaranda Advisory,Sun Hotel Enterprise Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Jacaranda Advisory,Sun Saltwater Creek Hotel Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Jacaranda Advisory,Sun Stafford Tavern Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Jacaranda Advisory,Swifts Leagues Club,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Jacaranda Advisory,WHITSUNDAY SPORT PARK INC,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Jacaranda Advisory,Yeronga Services  Club,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Jeanes Holland  & Associates,PreveCeutical (Australia) Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Jeanes Holland  & Associates,The University of Adelaide,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+John Short,St Baker Energy Innovation Fund,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+John Short,Sunset Power International Pty Ltd Trading as Delta Electricity,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Jutsum Advisory Pty Ltd,Responsible Energy,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Jutsum Advisory Pty Ltd,Skyborne Technologies Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Jutsum Advisory Pty Ltd,The Monte Family Trust,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Jutsum Advisory Pty Ltd,Urbanity Projects,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Jutsum Advisory Pty Ltd,Vitale Projects Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Jutsum Advisory Pty Ltd,Zero Industrials,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Kurrajong Strategic Counsel,Refrigerated Warehouse & Transport Association of Australia,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Kurrajong Strategic Counsel,TALi Health,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Kurrajong Strategic Counsel,The Kids Cancer Project,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Kurrajong Strategic Counsel,Tresillian Family Care Centres,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Kurrajong Strategic Counsel,WE Platt,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Kurrajong Strategic Counsel,Wounded Heroes Australia,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+LK Creative Pty Ltd,ResourceCo,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+LK Creative Pty Ltd,Salter Brothers Group,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Liquor Licensing Consultants,Amla Investments Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Liquor Licensing Consultants,Pro-Invest HotelsBrisbane Hydrus Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Liquor Licensing Consultants,Pro-invest Hotel Operating Sunshine Coast Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Liquor Licensing Consultants,Proper Pizza Cafe Bar Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Liquor Licensing Consultants,Rockpool Rac Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Liquor Licensing Consultants,Rodd & Gunn Australia Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Liquor Licensing Consultants,Sirrom Corporation (Aust.) Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Liquor Licensing Consultants,Strike Australia Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Liquor Licensing Consultants,Suncoast Cafes Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Liquor Licensing Consultants,TCC OPERATIONS PTY LTD,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Liquor Licensing Consultants,The Club Hotel 1938 Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Liquor Licensing Consultants,Tieri Country Club Inc,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Liquor Licensing Consultants,Virginia United Football Club Inc,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Liquor Licensing Consultants,secret squiggle pty ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Marketplace Communications,QM Properties,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Marketplace Communications,Urbis Pty Ltd ,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Michelson Alexander Pty Ltd,Plumbing Industry Climate Action Centre,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Mission Consulting Solutions,Qld Taxi Licence Owners,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Next Level Strategic Services,REMONDIS Australia,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Next Level Strategic Services,Ramsay Health Care,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Next Level Strategic Services,RemServ,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Next Level Strategic Services,SAP Australia Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Next Level Strategic Services,Shell,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Next Level Strategic Services,Sunshine Coast Airport,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Next Level Strategic Services,World Surf League Australia,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Next Level Strategic Services,Yumba Meta Housing Association ,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Nexus APAC Pty Ltd,Redkite,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Nexus APAC Pty Ltd,ResMed Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Nexus APAC Pty Ltd,Sonic Healthcare,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Nexus APAC Pty Ltd,Upjohn Australia,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Nexus APAC Pty Ltd,Viatris Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Northstar Public Affairs Pty Ltd,Ampol,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Northstar Public Affairs Pty Ltd,Transgrid,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Northstar Public Affairs Pty Ltd,Tri-Star,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Ogilvy PR Agency Pty Limited,Amicus Therapeutics,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Ogilvy PR Agency Pty Limited,Rare Voices Australia,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Ogilvy PR Agency Pty Limited,Roche,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Ogilvy PR Agency Pty Limited,SMA Technology Australia Pty Ltd ,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Outcomes & Strategies Group,Varley Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Outcomes & Strategies Group,Varley Rafael Australia,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+PYNE AND PARTNERS,SRC Australia Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+PYNE AND PARTNERS,TITOMIC LIMITED,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+PYNE AND PARTNERS,Xamplify Group Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+PolicyWonks,Altum Properties No. 8 Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+PolicyWonks,Queensland Resources Council,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+PolicyWonks,Quickcell Technology Products,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+PolicyWonks,Ripley Projects,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+PolicyWonks,Riverside Industrial Sands,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+PolicyWonks,Riverside Marine,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+PolicyWonks,SEA Electric,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+PolicyWonks,Salesforce,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+PolicyWonks,Silanna Group,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+PolicyWonks,SkillsLogiQ,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+PolicyWonks,Spinal Life Australia,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+PolicyWonks,The Millmerran Rail Group,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+PolicyWonks,Tri-Star Group,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+PolicyWonks,United Petroleum,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+PolicyWonks,Wabtec,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+PolicyWonks,Wambo Cattle Company,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Porter Novelli Australia Pty Ltd,Rural Bank,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Porter Novelli Australia Pty Ltd,Yumbah Aquaculture,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Precise Hospitality Licensing,Platinum on Duporth Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Precise Hospitality Licensing,Prime Investment Group Holdings Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Precise Hospitality Licensing,Rise-bakery Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Precise Hospitality Licensing,Say Less Café and Bar Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Precise Hospitality Licensing,Shahnameh Group Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Precise Hospitality Licensing,Somerset Regional Council,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Precise Hospitality Licensing,Sunday Hospitality Group Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Precise Hospitality Licensing,Switch Distillery Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Precise Hospitality Licensing,Unovino Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Precise Hospitality Licensing,Woorim Developments Pty Ltd as Trustee for the Woorim Developments Trust,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Preferment Associates,Thoroughbred Breeders Australia,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+PremierNational,Roberts Pizzarotti Pty Limited,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+PremierNational,Smart Energy Council,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+PremierNational,The Australian Energy Foundation,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+PremierNational,Trustgrid Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Primary Communication,Professional Standards Council,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Primary Communication,Scouts Australia,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Primary Communication,Smiling Mind,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Primary Communication,Sonic Innovations Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Primary Communication,Study Group ,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Primary Communication,The Butterfly Foundation,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Primary Communication,Triple P International Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Primary Communication,Viking  River Cruises Australia Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Primary Communication,White Ribbon Australia,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Profile Consulting (Aust) Pty Ltd,Property Exchange Australia Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Profile Consulting (Aust) Pty Ltd,Smart Group Corporation,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Project Urban Pty Ltd,Alexandra Community Group,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Project Urban Pty Ltd,Project Urban Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Project Urban Pty Ltd,Sunshine Hospice,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Project Urban Pty Ltd,The Jetty Specialists,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Project Urban Pty Ltd,Wave Parks Australia,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Promedia Public Relations,Robina Group,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Promedia Public Relations,TriCare,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Richardson Coutts Pty Ltd,Royal Caribbean,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Rowland Pty Ltd,Stanmore Resources Limited,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Royce Comm,Vaxxas,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+S A Milgate & Associates Pty Ltd,Annsca Energy PTY LTD,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+SAS Group,RPS AAP CONSULTING PTY LTD,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+SAS Group,Regional Development Australia Central and Western Queensland Inc,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+SAS Group,Ripley Town Holdings Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+SAS Group,Sekisui House Australia Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+SAS Group,Smart Capital Group,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+SAS Group,Sterlite Technologies Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+SAS Group,Titan Fibre Networks Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+SEC Newgate,American Express,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+SEC Newgate,Southern Cross Community Healthcare,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+SEC Newgate,The Minderoo Foundation,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+SEC Newgate,Windlabsystems,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+SEC Newgate,Wing Aviation Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+SEC Newgate,southern cross community healthcare,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Santoro Consulting,Queensland Maritime Museum Association,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Santoro Consulting,Risk 2 Solution Holdings Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Santoro Consulting,Salcef S.p.A,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Santoro Consulting,Saunders Havill Group,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Santoro Consulting,Sign Site Group Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Santoro Consulting,Stormwater360 Australia ,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Santoro Consulting,TechnologyOne,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Santoro Consulting,The Digital Filing Company Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Sling and Stone,AMAZON COMMERCIAL SERVICES PTY LTD,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Sling and Stone,SENDLE PTY LTD,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Sling and Stone,SLACK AUSTRALIA PTY LTD,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Sling and Stone,TWITTER AUSTRALIA HOLDINGS PTY LIMITED,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Sling and Stone,Texthelp Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Sling and Stone,The Trustee for Future Super Fund,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Sling and Stone,WYWM SERVICES PTY LTD,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Sling and Stone,XERO AUSTRALIA PTY LIMITED,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Sling and Stone,XREF (AU) PTY LTD,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Sling and Stone,ZIPMONEY PAYMENTS PTY LTD,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Social Impact (Qld),Queensland Cricketers Club,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Social Impact (Qld),Rino Recycling,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Social Impact (Qld),Saorsa Health,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Social Impact (Qld),South Rugby League,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Social Impact (Qld),Southern Oil refining,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Social Impact (Qld),SynBio,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Social Impact (Qld),Ti Tree bioENERGY,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Social Impact (Qld),WestRex,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Spring Street Advisory,Resort Brokers Asia Pacific,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Spring Street Advisory,Vestas Australia,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Spring Street Advisory,Villawood Properties,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Staerk Government and Media,Rex Energy Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Staerk Government and Media,Salerno Law,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Statecraft Pty Ltd,Yancoal Australia Limited,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Strategic Pathways Consulting,Kawana Waters farmers Market Pty Ltd trading as Kawana Farmers Market,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Strategic Pathways Consulting,S.E.L.F. Noosa Pty Ltd as Trustee for the NFM Unit Trust trading as Noosa Farmers Market,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Strategic Political Counsel,Power Ledger,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Strategic Political Counsel,RETURNED & SERVICES LEAGUE OF AUSTRALIA (QUEENSLAND BRANCH) KEDRON-WAVELL SUB BRANCH INCORPORATED,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+TG Public Affairs,1st Group,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+TG Public Affairs,Prime Super Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+TG Public Affairs,Regis Aged Care Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+TG Public Affairs,Rheinmetall Defence,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+TG Public Affairs,Rural Funds Management,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+TG Public Affairs,SAAB,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+TG Public Affairs,Seven West Media,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+TG Public Affairs,Silver Lake Partners,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+TG Public Affairs,Sims Metal Management,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+TG Public Affairs,Standards Australia,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+TG Public Affairs,Stormbringer Studios Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+TG Public Affairs,Strong Room Technology Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+TG Public Affairs,Sureway Employment and Training,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+TG Public Affairs,TPG Telecom,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+TG Public Affairs,The Shell Company of Australia Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+TG Public Affairs,The University of Notre Dame Australia,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+TG Public Affairs,UGL Pty Limited,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+TG Public Affairs,Vanguard Health,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+TG Public Affairs,Viva Energy Australia,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+TONY ROLFE Consulting,Powerhouse Hub,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Taylor Connect,Qube Logistics,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Taylor Connect,RESPONSE GROUP INTERNATIONAL PTY LTD,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Taylor Connect,South Burnett Regional Council,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Test Only,Test Client 2 Only,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Test Only,Test Client Only,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Test by QIC 4,test,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+The Civic Group,Radiation Therapy Advisory Group,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+The Civic Group,Vicinity Centres PM Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+The Fifth Estate,Pratt Holdings Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+The Fifth Estate,Visy Industries Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+The Inner Circle Strategic Advisory,Surf Life Saving Queensland,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+The Inner Circle Strategic Advisory,The Walt Disney Company,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+The Premier Communications Group,Quandamooka Yoolooburrabee Aboriginal Corporation,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+The Premier Communications Group,Rhomberg Rail Australia,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS,Swiss Re,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+WELLS HASLEM MAYHEW STRATEGIC PUBLIC AFFAIRS,Youth Insearch,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Walsh Stevens,XCOAL MINING SERVICES PTY LTD,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Watt Advocacy & Communications,Wounds Australia Limited,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Wilkinson Butler,Svitzer,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Wilkinson Butler,Tindo Solar,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Willard Public Affairs Pty Ltd,U.S. Chamber of Commerce,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Willard Public Affairs Pty Ltd,Vertex Pharmaceuticals (Australia) Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Willard Public Affairs Pty Ltd,Zoetis Australia Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+Zealifi,Sunnybank Community & Sports Club,1,1.0,Lobbyist,Client,#c780e8,#ff6961
+advico,Within Energy Pty Ltd,1,1.0,Lobbyist,Client,#c780e8,#ff6961
 141 Abbott Street Pty Ltd,Australian Labor Party (State of Queensland),1,2000.0,Corporation,Agent for political party,#ff6961,#08cad1
 188 Edward Pty Ltd,Liberal National Party of Queensland,1,2000.0,Corporation,Agent for political party,#ff6961,#08cad1
 1st Class Food Pty Ltd,Liberal National Party of Queensland,2,12000.0,Corporation,Agent for political party,#ff6961,#08cad1
