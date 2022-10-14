@@ -4,22 +4,22 @@
   "data": "data.json",
   "logo": {
     "file": "",
-    "link": "",
+    "link": "https://github.com/ryananalytix/government_transparency",
     "text": "Neural Nerds"
   },
   "text": {
-    "more": "test",
-    "intro": "test",
-    "title": "iLab2"
+    "more": "The goals of prototype application are to, \n• Help expose the connections within the the open data sources via visual network map.\n• Enable exploration of relationships between entities and assist identification of key players via an interactive GUI that can be deployed to production.\n• Design a prototype which can be used as a model for potential future development projects.\n• Develop a model that can be used as an analytical tool to provide supports in the research of the Government Transparency as whole. \n",
+    "intro": "This Network Map is a prototype application developed by team Neural Nerds at UTS (iLab2) in partnership with the Australian Research Data Commons (ARDC) and University of Melbourne – Centre for Health Policy.",
+    "title": "Government Transparency"
   },
   "legend": {
     "edgeLabel": "Connections",
-    "colorLabel": "Data Source",
+    "colorLabel": "Entity Types",
     "nodeLabel": "Entities"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Label",
+    "groupSelectorAttribute": "node type",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
