@@ -14,7 +14,7 @@ The Project aims to utilise these existing data sources from governmental and pr
 The scope of this Project is limited to producing prototype model outputs for **Queensland**, Australia only, amongst other data availability and technical constraints.
 
 ## Data Dictionaries
-- [Data_dictionaries.pdf]([https://gephi.org/users/download/](https://github.com/ryananalytix/government_transparency/blob/main/Data_dictionaries.pdf)
+- [Data_dictionaries.pdf](https://github.com/ryananalytix/government_transparency/blob/main/Data_dictionaries.pdf)
 
 ## How to update data
 ### Prerequisites
