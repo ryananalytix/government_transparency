@@ -95,5 +95,5 @@ Once the package is located on the server, open the Index.html file using the gi
 Simply replace the https://github.com/ with https://rawcdn.githack.com/. 
 
 For example,
-https://github.com/<!--This is a comment-->ryananalytix/government_transparency/blob/main/gephi/prototype_1.3/network/index.html
+ >> https://github.com/<!--This is a comment-->ryananalytix/government_transparency/blob/main/gephi/prototype_1.3/network/index.html
  >> <!--This is a comment-->https://rawcdn.githack.com/<!--This is, too-->ryananalytix/government_transparency/main/gephi/prototype_1.3/network/index.html
