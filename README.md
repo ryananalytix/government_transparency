@@ -14,7 +14,7 @@ The Project aims to utilise these existing data sources from governmental and pr
 The scope of this Project is limited to producing prototype model outputs for **Queensland**, Australia only, amongst other data availability and technical constraints.
 
 ## Data Dictionaries
-
+- [Data_dictionaries.pdf]([https://gephi.org/users/download/](https://github.com/ryananalytix/government_transparency/blob/main/Data_dictionaries.pdf)
 
 ## How to update data
 ### Prerequisites
@@ -37,42 +37,59 @@ The scope of this Project is limited to producing prototype model outputs for **
 - [Gephi Tutorial](https://blog.miz.space/tutorial/2020/01/05/gephi-tutorial-sigma-js-plugin-publishing-interactive-graph-online/)
 
 ### Steps
-1. File > Import spreadsheet...
+1. File > Import spreadsheet... \
 ![alt text](https://github.com/ryananalytix/government_transparency/blob/main/image/manual_img/step1.png?raw=true)
-2. Open and load nodes (g_node.csv)
+
+2. Open and load nodes (g_node.csv)\
 ![alt text](https://github.com/ryananalytix/government_transparency/blob/main/image/manual_img/step2.png?raw=true)
-3. Next >
+
+3. Next > \
 ![alt text](https://github.com/ryananalytix/government_transparency/blob/main/image/manual_img/step3.png?raw=true)
-4. Finish
+
+4. Finish \
 ![alt text](https://github.com/ryananalytix/government_transparency/blob/main/image/manual_img/step4.png?raw=true)
-5. Check New workspace, then press OK
+
+5. Check New workspace, then press OK \
 ![alt text](https://github.com/ryananalytix/government_transparency/blob/main/image/manual_img/step5.png?raw=true)
-6. Now, we import Edges. Switch to Edges tab, then click Import spreadsheet.
+
+6. Now, we import Edges. Switch to Edges tab, then click Import spreadsheet. \
 ![alt text](https://github.com/ryananalytix/government_transparency/blob/main/image/manual_img/step6.png?raw=true)
-7. Open and load edges (g_edge.csv)
+
+7. Open and load edges (g_edge.csv) \
 ![alt text](https://github.com/ryananalytix/government_transparency/blob/main/image/manual_img/step7.png?raw=true)
-8. Next >
+
+8. Next > \
 ![alt text](https://github.com/ryananalytix/government_transparency/blob/main/image/manual_img/step8.png?raw=true)
-9. Finish
+
+9. Finish \
 ![alt text](https://github.com/ryananalytix/government_transparency/blob/main/image/manual_img/step9.png?raw=true)
-10. [Important] Check 'Append to existing workspace', then press OK
+
+10. [Important] Check 'Append to existing workspace', then press OK \
 ![alt text](https://github.com/ryananalytix/government_transparency/blob/main/image/manual_img/step10.png?raw=true)
-11. Navigate to Overview tab, then in the Layout panel, select 'Force Atlas - 3D' and Run. 
-(The algorithm will commence running and nodes will come to live. Let it run while we configure the remaining settings.)
+
+11. Navigate to Overview tab, then in the Layout panel, select 'Force Atlas - 3D' and Run.  \
+(The algorithm will commence running and nodes will come to live. Let it run while we configure the remaining settings.) \
 ![alt text](https://github.com/ryananalytix/government_transparency/blob/main/image/manual_img/step11.png?raw=true)
-12. On Nodes panel, navigate to Partition tab, and select 'node color' from the option and Apply.
+
+12. On Nodes panel, navigate to Partition tab, and select 'node color' from the option and Apply. \
 ![alt text](https://github.com/ryananalytix/government_transparency/blob/main/image/manual_img/step12.png?raw=true)
-13. Now select the Size option, and select the node weight option. Set range, then Apply.
+
+13. Now select the Size option, and select the node weight option. Set range, then Apply. \
 ![alt text](https://github.com/ryananalytix/government_transparency/blob/main/image/manual_img/step13.png?raw=true)
-14. Navigate to Edges panel, and move to Ranking tab. Select Weight option, then Apply
+
+14. Navigate to Edges panel, and move to Ranking tab. Select Weight option, then Apply \
 ![alt text](https://github.com/ryananalytix/government_transparency/blob/main/image/manual_img/step14.png?raw=true)
-15. We just need to export the package now. Go to File > Export > Sigma.js template...
+
+15. We just need to export the package now. Go to File > Export > Sigma.js template... \
 ![alt text](https://github.com/ryananalytix/government_transparency/blob/main/image/manual_img/step15.png?raw=true)
-16. Click Browse...
+
+16. Click Browse... \
 ![alt text](https://github.com/ryananalytix/government_transparency/blob/main/image/manual_img/step16.png?raw=true)
-17. Create a new folder, then select the new folder. Lastly, click Save.
+
+17. Create a new folder, then select the new folder. Lastly, click Save. \
 ![alt text](https://github.com/ryananalytix/government_transparency/blob/main/image/manual_img/step17.png?raw=true)
-18. Now, push and update the exported package on the repository.
+
+18. Now, push and update the exported package on the repository. \
 
 Once the package is located on the server, open the Index.html file using the githack wrapper. \
 Simply replace the https://github.com/ with https://rawcdn.githack.com/. 
