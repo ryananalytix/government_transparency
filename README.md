@@ -1,7 +1,10 @@
 # [government_transparency]
-This public repository is published by the Neural Nerds following a participation in the iLab2 (Spring 2022) - ARDC | Government Transparency project. \
+#disclosure of information #openness #accountability 
+
+This public repository is published by the Neural Nerds following a participation in the iLab2 (Spring 2022) - ARDC | Government Transparency project.
+
 Click the following link to open the **network map**.  \
-[[>>>>> [Network Map](https://rawcdn.githack.com/ryananalytix/government_transparency/main/gephi/prototype_1.3/network/index.html) <<<<<]]
+_>>>>> [Network Map](https://rawcdn.githack.com/ryananalytix/government_transparency/main/gephi/prototype_1.3/network/index.html) <<<<<_
 
 ![alt text](https://github.com/ryananalytix/government_transparency/blob/main/image/NN_project_overview.png?raw=true)
 
